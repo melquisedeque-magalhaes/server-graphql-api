@@ -57,7 +57,7 @@ ou
 ```
 $ yarn
 ```
-4. Suba o banco, atravez do docker
+4. Suba o banco, através do docker
 
    crie seu arquivo de variaveis ambientes, conpiando o arquivo .env.example
 
