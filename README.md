@@ -59,7 +59,7 @@ $ yarn
 ```
 4. Suba o banco, através do docker
 
-   crie seu arquivo de variaveis ambientes, conpiando o arquivo .env.example
+   crie seu arquivo de variaveis ambientes, copiando o arquivo .env.example
 
 4. Suba o banco, atravez do docker
 
